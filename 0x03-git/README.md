@@ -1,2 +1,1 @@
-My first readme updated
-My second readme is live
+My second readme updated
